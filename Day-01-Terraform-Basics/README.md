@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Basics-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
 </p>
 
 # 📘 Day 01 - Terraform Basics
